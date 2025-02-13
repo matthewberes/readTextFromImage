@@ -1,0 +1,10 @@
+look for block with:
+most words with biggest height (avg)
+possibly (unlikely needed) - most words with highest confidence (avg)
+only take words avg height+ with 80%+ confidence
+
+
+find blocks with 5+ words (F column)
+find avg heights (J column)
+take block with largest height avg
+create string using words that have 80%+ conf (K column) and 80%+ avg height
