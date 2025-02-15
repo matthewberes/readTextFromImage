@@ -1,1 +1,3 @@
-tesseract.exe -l eng headline1.png out tsv
+D:/matty/Lib/idlelib python3.12 idle.pyw
+
+tesseract.exe -l eng headline1.png headline1 tsv
